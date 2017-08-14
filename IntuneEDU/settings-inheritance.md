@@ -33,7 +33,7 @@ ms.lasthandoff: 07/05/2017
 
 ## <a name="can-i-configure-subgroups-differently-after-inheriting-settings-from-another-group"></a>我可以設定子群組以不同的方式從另一個群組繼承設定之後？
 
-子群組個別設定，即使它們繼承設定自其上方的群組。 您可以只設定需要的設定，然後將它們儲存覆寫繼承的設定。
+子群組個別設定，即使它們繼承設定自其上方的群組。 您可以只設定需要的設定，然後將它們儲存覆寫至繼承的設定。
 
 ## <a name="can-i-ever-end-up-with-settings-that-do-not-work-together"></a>我曾最後會具有無法一起運作的設定嗎？
 
