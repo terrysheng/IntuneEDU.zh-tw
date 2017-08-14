@@ -25,7 +25,7 @@ ms.lasthandoff: 07/05/2017
 
 ## <a name="how-do-i-acquire-apps-from-the-microsoft-store-for-education"></a>我要如何取得適用於教育界的 Microsoft 市集應用程式？
 
-您已從適用於教育界 Microsoft Store 取得的應用程式會自動提供適用於教育界的 Intune。 這可輕鬆為您的 Windows 10 裝置的存取權數百個應用程式。
+您已從適用於教育界的 Microsoft Store 取得會自動提供適用於教育界的 Intune 應用程式。 這可輕鬆為您的 Windows 10 裝置的存取權數百個應用程式。
 
 您可以找到如何取得這些應用程式中的指示[Microsoft Store](https://docs.microsoft.com/microsoft-store/acquire-apps-windows-store-for-business#acquire-apps)文件。
 
